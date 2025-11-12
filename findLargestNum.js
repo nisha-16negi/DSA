@@ -9,7 +9,7 @@ function findlargestNumber(arr) {
   return largestNum;
 }
 
-let arr = [3, 6, 0, 13, 4, 15, 1, 43];
+let arr = [-3, -6, -13, -1];
 
 let result = findlargestNumber(arr);
 console.log(result);

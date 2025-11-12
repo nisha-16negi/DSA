@@ -8,6 +8,6 @@ let smallestNum = Infinity;
  return smallestNum;
 }
 
-let arr = [13,8,10,22,11,18];
+let arr = [-13,8,10,22,11,18];
 let result = findSmallestNumber(arr);
 console.log(result);

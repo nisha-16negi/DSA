@@ -46,4 +46,4 @@ function primeNum(num) {
   }
   return "Is a prime number!";
 }
-console.log(primeNum(11));
+console.log(primeNum(13));
